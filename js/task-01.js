@@ -1,6 +1,6 @@
-//const numberofCategories = document.querySelectorAll('li.item').length;
-//const categories = document.querySelectorAll('.item');
-//console.log(`Number of categories: ${numberofCategories}`);
+const numberofCategories = document.querySelectorAll('li.item').length;
+const categories = document.querySelectorAll('.item');
+console.log(`Number of categories: ${numberofCategories}`);
 
 
 categories.forEach((category) => {
